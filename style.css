@@ -1,0 +1,25 @@
+.heading-style {
+  font-family: 'Arial', sans-serif;
+  color: blue;
+}
+
+#profile_pic {
+  width: 10ems;
+  height: 10ems;
+  border: 1px black solid;
+  background-color: grey;
+
+}
+
+a {
+  color: purple;
+  line-height: 1.2;
+  text-decoration: none;
+}
+.wrapper {
+  width : 50ems;
+  padding: 40ems;
+  background-color: white;
+  box-shadow: .1ems .1ems .05ems grey;
+
+}
